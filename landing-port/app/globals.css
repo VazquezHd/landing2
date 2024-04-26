@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body{
+html, body {
   color: #fff;
   /* color morado de fondo */
   background : #1f1934; 
