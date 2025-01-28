@@ -10,7 +10,8 @@ const config: Config = {
     extend: {
       
         colors: {
-          secundary : "#f5741c",
+          //AQUI ESTAN LOS COLORES A MODIFICAR
+          secondary : "#f5741c",
           darkBg: "#131424"
         },
         backgroundImage: {
