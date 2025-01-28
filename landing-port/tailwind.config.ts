@@ -11,12 +11,12 @@ const config: Config = {
       
         colors: {
           //AQUI ESTAN LOS COLORES A MODIFICAR
-          secondary : "#f5741c",
-          darkBg: "#131424"
+          secondary : "#DA1212",
+          darkBg: "#041562"
         },
         backgroundImage: {
           "gradient-cover" : 
-            "linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91% , rgba(74, 47, 189, 0.5)111.58%)",
+            "linear-gradient(90.21deg, #041562 -5.91% , #11468F)",
           },
       },
     },
